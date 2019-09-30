@@ -12,7 +12,7 @@
   transform-origin: 0 50%;
 }
 
-@keyframes jump {
+@keyframes rotateTransf {
   from {
     transform: rotate(0);
   }
