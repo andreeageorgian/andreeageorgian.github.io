@@ -6,7 +6,7 @@
 
 
 .head {
-  animation-name: jump;
+  animation-name: rotateTransf;
   animation-duration: 2s;
   animation-iteration-count: infinite;
   transform-origin: 0 50%;
@@ -18,7 +18,7 @@
   }
 
   50% {
-    transform: translate(0px, -50px);
+    transform: rotate(160deg);
   }
 }
 
