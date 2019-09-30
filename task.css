@@ -23,35 +23,35 @@
 }
 
 .body {
-  animation-name: jump;
+  animation-name: rotateTransf;
   animation-duration: 2s;
   animation-iteration-count: infinite;
   transform-origin: 0 50%;
 }
 
 .left.hand {
-  animation-name: jump;
+  animation-name: rotateTransf;
   animation-duration: 2s;
   animation-iteration-count: infinite;
   transform-origin: 0 50%;
 }
 
 .right.hand {
-  animation-name: jump;
+  animation-name: rotateTransf;
   animation-duration: 2s;
   animation-iteration-count: infinite;
   transform-origin: 0 50%;
 }
 
 .left.foot {
-  animation-name: jump;
+  animation-name: rotateTransf;
   animation-duration: 2s;
   animation-iteration-count: infinite;
   transform-origin: 0 50%;
 }
 
 .right.foot {
-  animation-name: jump;
+  animation-name: rotateTransf;
   animation-duration: 2s;
   animation-iteration-count: infinite;
   transform-origin: 0 50%;
